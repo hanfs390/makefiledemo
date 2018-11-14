@@ -3,7 +3,7 @@
 void app()
 {
 	int c = 100;
-	add();
-	del();
+	add(c);
+	del(c);
 	return NULL;
 }
